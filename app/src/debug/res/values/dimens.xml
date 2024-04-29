@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="emailwidth">341dp</dimen>
+    <dimen name="email_height">70dp</dimen>
+    <dimen name="height">341dp</dimen>
+    <dimen name="width">341dp</dimen>
+    <dimen name="height_">70dp</dimen>
+    <dimen name="txt22">22sp</dimen>
+
+
+    <dimen name="font24">24sp</dimen>
+    <dimen name="font34">34sp</dimen>
+    <dimen name="font20">20sp</dimen>
+    <dimen name="font16">16sp</dimen>
+    <dimen name="font30">30sp</dimen>
+    <dimen name="logoWidth">180dp</dimen>
+    <dimen name="logoHeight">180dp</dimen>
+    <dimen name="proPicWidth">150dp</dimen>
+    <dimen name="proPicHeight">150dp</dimen>
+    <dimen name="btnEditWidth">160dp</dimen>
+    <dimen name="btnEditHeight">57dp</dimen>
+    <dimen name="btnLogoutWidth">100dp</dimen>
+    <dimen name="btnLogoutHeight">55dp</dimen>
+</resources>
